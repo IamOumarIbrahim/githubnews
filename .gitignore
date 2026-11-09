@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# App data (recreated on every run; history is personal)
+cache.json
+history.json
+repo_info_cache.json
+error.log
+.setup_done
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
