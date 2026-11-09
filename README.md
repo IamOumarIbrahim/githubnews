@@ -10,6 +10,12 @@ Three picks a day, never the same repo twice. Opens itself when Windows starts.<
 <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-f2c94c"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/IamOumarIbrahim/githubnews/archive/refs/heads/main.zip"><img alt="Download" src="https://img.shields.io/badge/Download-ZIP-58a6ff?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center"><img src="docs/demo.gif" alt="GitHub News: today's 3 picks and the history window" width="100%"></p>
+
 ## How it works
 
 ```mermaid
@@ -84,3 +90,9 @@ GitHub Trending has no official API, so the app reads the web page; if GitHub ch
 stop appearing until the scraper is updated. "Stars today" is GitHub's own number.
 
 MIT License. Data from github.com.
+
+## Help the project
+
+Do you like it? Please give it a **star**, so more people can find it. Ideas and bugs are welcome in [Issues](https://github.com/IamOumarIbrahim/githubnews/issues).
+
+The demo at the top was made with [Demotive](https://github.com/IamOumarIbrahim/Demotive). The script is in [`docs/demo/make_demo.py`](docs/demo/make_demo.py).
